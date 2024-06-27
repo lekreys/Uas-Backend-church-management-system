@@ -21,5 +21,5 @@ install laravel ui untuk authentification dengan perintah
 
 // LINK YOUTUBE
 
-link presentasi : https://youtu.be/9NV4-4cwVFI?si=qukiEZ4bsOPUW4U1
-link demo program : https://youtu.be/xEZ77nWmZ-g?si=NSbdkkWPU_SHBe9W
+- link presentasi : https://youtu.be/9NV4-4cwVFI?si=qukiEZ4bsOPUW4U1
+- link demo program : https://youtu.be/xEZ77nWmZ-g?si=NSbdkkWPU_SHBe9W
