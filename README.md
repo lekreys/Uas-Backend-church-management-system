@@ -1,7 +1,6 @@
 step 1 :
 
-migrate dlu semua tablenya ke database menggunakan perintah :
- - php artisan migrate
+migrate dlu semua tablenya ke database menggunakan perintah :"""php artisan migrate"""
 
 step 2 :
 
